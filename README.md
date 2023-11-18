@@ -9,7 +9,7 @@ Requirements:
 
 
 Installation Process: 
-  Clone the repository: git clone https://github.com/yourusername/california-house-price-prediction.git
+  Clone the repository: git clone [https://github.com/yourusername/california-house-price-prediction.git](https://github.com/msrcorporation/HousePrediction.git)
   Install required libraries:
   pip install pandas numpy scikit-learn matplotlib seaborn
   The script will perform data preprocessing, model training, evaluation, and generate predictions.
